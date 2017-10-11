@@ -1,30 +1,73 @@
+
 body {
+	background-color: purple;
 	
+
 }
+
 p {
+
 	
+
 }
+
 h3 {
+
 	
+
 }
+
 li {
 	
 }
+a{
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+	text-decoration: none;
+}
 #Header {
-	
+	width: 500 px;
+	margin: 0px auto auto 10px;
+	border: solid 8 px black;
+	text-align: center;
+	background-color: yellow;
 }
-#Header h2 {
-	
+
+#Header h1 {
+	font-size: 60px;
+	font-family: "Passion One";
+	color: #FFBC00;
+	font-weight: bold;
 }
+
 #LeftNav {
-	
+	width: 400px;
+	margin: 0px auto auto 10px;
+	border: solid 8 px black;
+	float: left;
+	text-align:center;
+	padding-bottom: 8px;
+	background-color: yellow;
 }
+
 #LeftNav img {
+
 	
-}
-#Content {
 
 }
+
+#Content {
+	width: 700 px;
+	margin: 0px auto auto 10px;
+	border: solid 8 px black;
+	text-align: center;
+	padding: 15px;
+	background-color: yellow;
+
+}
+
 #Footer {
-	
+	text-align: center;
+	background-color: yellow;
 }
